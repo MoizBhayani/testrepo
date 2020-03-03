@@ -5,5 +5,7 @@ public class Test {
 		System.out.println("test for conflict");
 		System.out.println("test 3");
 		System.out.println("test 4");
+
+		System.out.println("In testing branch");
 	}
 }
